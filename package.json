@@ -1,6 +1,6 @@
 {
   "name": "map-react-globe-app",
-  "private": true,
+  "homepage": "PBhandare.github.io/gerunding/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "serve": "vite preview",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
