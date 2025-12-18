@@ -56,7 +56,7 @@ const getRegionContent = (regionName) => {
               accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore 
               veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-              Link to a project: https://storymaps.arcgis.com/stories/359cf2306140444081c7419511c63bf9
+              <a href = "https://storymaps.arcgis.com/stories/359cf2306140444081c7419511c63bf9">Link</a> to a project. 
 
               (maybe there's a cool embed preview design choice I could make here)
             </p>
