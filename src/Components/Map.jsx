@@ -51,9 +51,14 @@ const getRegionContent = (regionName) => {
         content: (
           <>
             <p style={{ lineHeight: '1.8', color: '#666' }}>
-              Dane County content: Sed ut perspiciatis unde omnis iste natus error sit voluptatem 
+              Dane County content: (probably try to implement some clickable tile here) Sed ut 
+              perspiciatis unde omnis iste natus error sit voluptatem 
               accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore 
               veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+
+              <a href="https://storymaps.arcgis.com/stories/359cf2306140444081c7419511c63bf9"> Link</a> to a project.
+
+              (maybe there's a cool embed preview design choice I could make here)
             </p>
             <p style={{ lineHeight: '1.8', color: '#666' }}>
               Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia 
